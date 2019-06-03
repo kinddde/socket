@@ -1,0 +1,4 @@
+node_modules
+*.lock
+
+app-pm2.json
